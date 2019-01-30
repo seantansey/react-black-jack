@@ -1,0 +1,18 @@
+
+.background {
+  background-color: #3E2F5B;
+  color: white;
+  margin: 2%;
+  border: 1px solid black;
+  border-radius: 0.5em;
+}
+
+.buttonZone {
+  text-align: center;
+}
+
+.button {
+  width: 140px;
+  margin-top: 2%;
+  margin-bottom: 2%;
+}

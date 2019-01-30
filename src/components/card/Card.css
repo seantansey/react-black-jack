@@ -1,0 +1,34 @@
+
+.card {
+  border: 1px solid black;
+  border-radius: 0.5em;
+  border-color: black;
+  background-color: white;
+  width: 15%;
+  margin: 2%;
+  float:left;
+}
+
+.suit {
+  margin-top: 35%;
+  margin-bottom: 35%;
+  text-align: center;
+  font-size: 250%;
+}
+
+.value {
+  margin: 5%;
+}
+
+.value2 {
+  text-align: right;
+  margin: 5%;
+}
+
+.red {
+  color: red;
+}
+
+.black {
+  color: black;
+}
